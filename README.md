@@ -136,6 +136,7 @@ Write tests using plain English (or other natural languages).
 - [Auto Playwright](https://github.com/lucgagan/auto-playwright) 🆓 - Run Playwright tests with AI through plain text prompts.
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
+- [ai-wright](https://github.com/TestChimp/ai-wright) 🆓 - Adds `ai.act`, `ai.verify`, and `ai.extract` steps to existing Playwright tests, using screenshots annotated with Set-of-Marks overlays and your own OpenAI, Gemini, or Claude API key.
 - [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
