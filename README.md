@@ -175,6 +175,7 @@ AI for failure analysis, flaky test detection, and reporting.
 - [Launchable](https://www.launchableinc.com/) 💰 - ML-driven predictive test selection and flaky test detection.
 - [BuildPulse](https://buildpulse.io/) 💰 - Flaky test detection and analytics platform.
 - [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) 🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
+- [semantic-graph](https://github.com/TestChimp/semantic-graph) 🆓 - CLI that embeds Playwright tests, clusters them by semantic similarity, and serves a local 2D graph for finding duplicate and overlapping tests, using your own OpenAI key or Anthropic and Voyage keys.
 
 ## Code Coverage with AI
 
